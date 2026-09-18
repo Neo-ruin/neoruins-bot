@@ -1,0 +1,57 @@
+# =========================
+# NEORUINS Local Secrets
+# =========================
+
+.env
+
+
+# =========================
+# Python Generated Files
+# =========================
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+# =========================
+# Local Bot Data
+# =========================
+
+approved_posts.txt
+content_history.txt
+drafts.txt
+performance_history.txt
+published_posts.txt
+
+
+# =========================
+# Local Development Files
+# =========================
+
+backups/
+local_data_backup/
+
+main_*_backup.py
+
+# =========================
+# Testing / Debug Output
+# =========================
+
+*.log
+
+
+# =========================
+# IDE Files
+# =========================
+
+.vscode/
+.idea/
+
+
+# =========================
+# OS Files
+# =========================
+
+.DS_Store
+Thumbs.db
